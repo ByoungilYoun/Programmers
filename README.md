@@ -10,3 +10,4 @@ Solving Questions in Programmers
 4. [수박수박수박수박수?](https://github.com/ByoungilYoun/Programmers/blob/master/Level1/200421-수박수박수박수박수박수%3F.playground/Contents.swift)
 5. [평균구하기](https://github.com/ByoungilYoun/Programmers/blob/master/Level1/200422%20-%20평균%20구하기%20.playground/Contents.swift)
 6. [String to Int](https://github.com/ByoungilYoun/Programmers/blob/master/Level1/200422-String%20to%20Int.playground/Contents.swift)
+7. [약수의 합](https://github.com/ByoungilYoun/Programmers/blob/master/Level1/200423-약수의%20합.playground/Contents.swift)
